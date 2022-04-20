@@ -1,5 +1,5 @@
 # DiarioDeBordoAndroid
-## Aplicação criada para controle de manutenções operacionais, mecânicas, elétricas e externas em máquinas de industrias, com o intuito de gerar históricos de falhas e agilizar o conserto do equipamento em caso de falhas idênticas.
+## Aplicação criada para controle de manutenções operacionais, mecânicas, elétricas e externas em máquinas de industrias, com o intuito de gerar históricos de falhas e agilizar o conserto do equipamento em caso de falhas idênticas. Aplicação desenvolvida em android e utiliza como banco de dados o firebase da google.
 
 Algumas Imagens abaixo para ilustrar o aplicativo.
 
