@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.d3h.diariodebordo.activitys.PesquisarActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteTextViewPesquisar"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_weight="1"
+                android:hint="Digite para pesquisar"
+                android:imeOptions="actionSearch"
+                android:inputType="text"
+                android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+                android:textColor="@android:color/white"
+                android:textColorHint="@color/common_google_signin_btn_text_dark_default"
+                android:textColorLink="@android:color/white"
+                android:textSize="24sp"
+                android:textStyle="normal|bold"
+                android:typeface="sans" />
+
+        </LinearLayout>
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_pesquisa" />
+
+</android.support.design.widget.CoordinatorLayout>

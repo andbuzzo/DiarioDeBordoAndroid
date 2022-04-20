@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3e2723</color>
+    <color name="colorPrimaryDark">#1b0000</color>
+    <color name="colorAccent">#a6a6a6</color>
+    <color name="colorOperador">#004143</color>
+    <color name="colorMecanico">#3a413a</color>
+    <color name="colorEletrica">#030225</color>
+    <color name="colorExterna">#7e7100</color>
+</resources>

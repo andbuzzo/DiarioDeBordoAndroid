@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "88517197567",
+    "firebase_url": "https://diariodebordo-8af88.firebaseio.com",
+    "project_id": "diariodebordo-8af88",
+    "storage_bucket": "diariodebordo-8af88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88517197567:android:8a2279daee9df492",
+        "android_client_info": {
+          "package_name": "com.d3h.diariodebordo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88517197567-9n587q49tp70mjgtej3uiv2v57nr21k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.d3h.diariodebordo",
+            "certificate_hash": "36be5aa63cefc10cda20767187ffc56608d9edec"
+          }
+        },
+        {
+          "client_id": "88517197567-vut5141ltrfurt2a2svdenu1n36off1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4eaLL2JLoZD-L3eASBz-K3AW22C1oAQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88517197567-vut5141ltrfurt2a2svdenu1n36off1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
